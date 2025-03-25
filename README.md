@@ -6,6 +6,7 @@ Sneat Vuetify Vuejs Laravel admin template
 Open the terminal in that directory & to install the composer packages, run the following command:
 ```sh
 composer install
+```sh
 
 Run the following command to copy .env.example file content into .env file:
 ```sh
